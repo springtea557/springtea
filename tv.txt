@@ -1,10 +1,6 @@
 {
   "channelList": [
     {
-      "url": "http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8",
-      "name": "TVBS亞洲"
-    },
-    {
       "url": "https://www.youtube.com/watch?v=m_dhMSvUCIc",
       "name": "TVBS新聞"
     },
@@ -35,6 +31,10 @@
     {
       "url": "https://www.youtube.com/watch?v=wM0g8EoUZ_E",
       "name": "華視新聞"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=uDqQo8a7Xmk",
+      "name": "台視"
     },
     {
       "url": "https://www.youtube.com/user/57ETFN/live",
@@ -86,8 +86,8 @@
       "name": "世新綜合"
     },
     {
-      "url": "rtmp://59.124.75.138/sat/tv771",
-      "name": "緯來日本"
+      "url": "http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8",
+      "name": "TVBS亞洲"
     },
     {
       "url": "https://www.youtube.com/watch?v=XvZCYDICPW8",
@@ -102,8 +102,24 @@
       "name": "新哆啦A夢TV版"
     },
     {
-      "url": "https://www.youtube.com/watch?v=uDqQo8a7Xmk",
-      "name": "台視"
+      "url": "http://61.221.215.25:8800/hls/49/index.m3u8",
+      "name": "音樂欣賞"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=spq8SMxl66w",
+      "name": "日文音樂24H"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=EmY9P98hOSU",
+      "name": "韓文音樂24H"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=U_pPkzkEdJo",
+      "name": "英文音樂24H"
+    },
+    {
+      "url": "http://80.94.54.42/fashiontv/stream/playlist.m3u8",
+      "name": "時尚台FTV"
     }
   ]
 }
