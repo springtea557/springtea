@@ -1,14 +1,6 @@
 {
   "channelList": [
     {
-      "url": "https://www.youtube.com/watch?v=XvZCYDICPW8",
-      "name": "蠟筆小新TV版"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=bVZ2efejj3I",
-      "name": "新哆啦A夢TV版"
-    },
-    {
       "url": "http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8",
       "name": "TVBS亞洲"
     },
@@ -88,6 +80,26 @@
     {
       "url": "https://www.youtube.com/watch?v=w87VGpgd90U",
       "name": "寰宇新聞台灣台"
+    },
+    {
+      "url": "http://61.58.60.230:9319/live/49.m3u8",
+      "name": "世新綜合"
+    },
+    {
+      "url": "rtmp://59.124.75.138/sat/tv771",
+      "name": "緯來日本"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=XvZCYDICPW8",
+      "name": "我們這一家TV版"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=bVZ2efejj3I",
+      "name": "蠟筆小新TV版"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=1tawwsoLhKY",
+      "name": "新哆啦A夢TV版"
     },
     {
       "url": "https://www.youtube.com/watch?v=uDqQo8a7Xmk",
