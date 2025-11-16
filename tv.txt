@@ -1,6 +1,10 @@
 {
   "channelList": [
     {
+      "url": "https://www.youtube.com/watch?v=XvZCYDICPW8",
+      "name": "蠟筆小新TV版"
+    },
+    {
       "url": "https://www.youtube.com/watch?v=m_dhMSvUCIc",
       "name": "TVBS新聞"
     },
