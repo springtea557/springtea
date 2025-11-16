@@ -5,6 +5,10 @@
       "name": "蠟筆小新TV版"
     },
     {
+      "url": "https://www.youtube.com/watch?v=bVZ2efejj3I",
+      "name": "新哆啦A夢TV版"
+    },
+    {
       "url": "https://www.youtube.com/watch?v=m_dhMSvUCIc",
       "name": "TVBS新聞"
     },
