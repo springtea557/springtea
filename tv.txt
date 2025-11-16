@@ -1,7 +1,7 @@
 {
   "channelList": [
     {
-      "url": "rtmp://59.124.75.138/sat/tv071",
+      "url": "rtsp://59.124.75.138/sat/tv071",
       "name": "台視"
     },
     {
