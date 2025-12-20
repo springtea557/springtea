@@ -1,0 +1,27 @@
+{    
+	"主页url": "https://www.kpkuang.one/",
+	"请求头": "手机",
+	"嗅探词":".m3u8#.mp4",
+	"简介": "",
+	"数组": "",
+	"标题": "title=\"&&\"",
+	"副标题": "<div class=\"module-item-note\">&&</div>",
+	"图片": "data-original=\"&&\"",
+	"链接": "href=\"&&\"",
+	//"搜索url": "/vod/search.html?wd={wd}&submit=",
+	//"搜索数组": "myui-vodlist__thumb&&</a>",
+	//"搜索标题": "title=\"&&\"",
+	//"搜索副标题": "pic-tag pic-tag-top\">&&</span>",
+	//"搜索图片": "http://w.g9.pub:66/f/Y1ksA/sorry.ico",
+	//"搜索链接": "href=\"&&\"",
+	//"搜索模式": "1",
+	//"搜索后缀": "/vod/detail/id/",
+	//"线路数组": "<ul class=\"nav nav-tabs active\">&&</ul>",
+	//"线路标题": "tab\">&&</a>",
+	//"播放数组": "<div class=\"tab-content myui-panel_bd\">&&</div>",
+	//"播放标题": ">&&<[替换:立即播放>>空]",
+	//"播放列表": "<a&&/a>",
+	//http://www.tvyun07.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html
+	"分类url": "https://www.kpkuang.one/vodshow/{cateId}--------{catePg}---{year}--.html;;m",
+	"分类": "短剧$37#电视剧$2#电影$1#动漫$4#综艺$3"
+}
