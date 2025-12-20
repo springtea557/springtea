@@ -104,20 +104,8 @@
       "name": "TVBS亞洲"
     },
     {
-      "url": "https://www.youtube.com/watch?v=Yp4V2acz3Rs",
+      "url": "https://www.youtube.com/watch?v=B_mBxtE20mw",
       "name": "摔角直播"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=XvZCYDICPW8",
-      "name": "我們這一家TV版"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=bVZ2efejj3I",
-      "name": "蠟筆小新TV版"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=1tawwsoLhKY",
-      "name": "新哆啦A夢TV版"
     },
     {
       "url": "http://61.221.215.25:8800/hls/49/index.m3u8",
