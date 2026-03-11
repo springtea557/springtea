@@ -34,7 +34,7 @@
       "name": "華視新聞"
     },
     {
-      "url": "https://www.youtube.com/watch?v=6IquAgfvYmc",
+      "url": "https://codeberg.org/springtea/springtea/raw/branch/main/tv.txt",
       "name": "寰宇新聞"
     },
     {
@@ -59,7 +59,7 @@
       "name": "寰宇新聞台灣台"
     },
     {
-      "url": "https://www.youtube.com/watch?v=EnuEsX3FSh0",
+      "url": "https://www.youtube.com/watch?v=eWj66MbDx1U",
       "name": "寰宇新聞財經台"
     },
     {
@@ -88,7 +88,7 @@
       "name": "大愛一臺"
     },
     {
-      "url": "https://www.youtube.com/watch?v=DTNkEm6jaqQ",
+      "url": "https://www.youtube.com/watch?v=OKvWtVoDR8I",
       "name": "大愛二臺"
     },
     {
@@ -104,7 +104,7 @@
       "name": "TVBS亞洲"
     },
     {
-      "url": "https://www.youtube.com/watch?v=B_mBxtE20mw",
+      "url": "https://www.youtube.com/watch?v=MNYTzo36wko",
       "name": "摔角直播"
     },
     {
@@ -112,11 +112,11 @@
       "name": "音樂欣賞"
     },
     {
-      "url": "https://www.youtube.com/watch?v=spq8SMxl66w",
+      "url": "https://www.youtube.com/watch?v=6n78y5xP_7Y",
       "name": "日文音樂24H"
     },
     {
-      "url": "https://www.youtube.com/watch?v=EmY9P98hOSU",
+      "url": "https://www.youtube.com/watch?v=0DyMgEDhsw0",
       "name": "韓文音樂24H"
     },
     {
