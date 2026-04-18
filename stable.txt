@@ -119,15 +119,44 @@
         "日本",
         "西方"
       ]
-    },
-    {
+  },
+  {
+      "key": "荐片",
+      "name": "🌀荐片",
+      "jar": "./jar/spiderbh2.jar", //0811XBPQ.jar;YD.jar;spiderbh2.jar
+      "api": "csp_JianPian",
+      "type": 3
+  },
+  {
+      "key": "飞快",
+      "name": "🌀飞快",
+      "type": 3,
+      "jar": "./jar/spiderbh2.jar", //0811XBPQ.jar;YD.jar;spiderbh2.jar
+      "api": "https://bitbucket.org/guot55/bh668/raw/main/%E9%A3%9E%E5%BF%ABTV.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+  },
+  {
+      "key": "韩剧",
+      "name": "🌀韩剧",
+      "type": 3,
+      "jar": "./jar/spiderbh2.jar", //0811XBPQ.jar;YD.jar;spiderbh2.jar
+      "api": "https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/tvbox/py/%E9%9F%A9%E5%89%A7.py",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0
+  },
+  {
       "key": "三秋",
       "name": "🌀三秋",
       "type": 3,
       "jar": "./jar/spiderbh2.jar", //0811XBPQ.jar;YD.jar;spiderbh2.jar
       "api": "csp_App3Q"
-    },
-    {
+  },
+  {
       "key": "奴娜",
       "name": "🌀奴娜",
       "type": 3,
@@ -137,8 +166,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.nntv.in/api.php/v1.vod"
-    },
-    {
+  },
+  {
       "key": "闪影",
       "name": "🌀闪影",
       "type": 3,
@@ -148,8 +177,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod"
-    }, 
-    {
+  }, 
+  {
       "key": "晓米",
       "name": "🌀晓米",
       "type": 3,
@@ -159,8 +188,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://111.170.58.23:802/api.php/app/"
-    },
-   {
+  },
+ {
       "key": "云播",
       "name": "🌀云播",
       "type": 3,
@@ -171,8 +200,8 @@
       "ext": {
         "host": "http://app.hktvyb.cc"
       }
-    },
-    {
+  },
+  {
       "key": "火锅",
       "name": "🌀火锅",
       "type": 3,
@@ -185,8 +214,8 @@
         "dataKey": "062dec75d039980e",
         "dataIv": "062dec75d039980e"
       }
-    },
-   {
+  },
+  {
       "key": "金牌",
       "name": "🌀金牌",
       "type": 3,
@@ -202,8 +231,8 @@
         "init": "initV122",
         "ua": "okhttp/3.10.0"
       }
-    },
-    {
+  },
+  {
       "key": "老鹰",
       "name": "🌀老鹰",
       "type": 3,
@@ -217,6 +246,74 @@
         "dataIv": "zxPtEUDGVllIUhDB",
         "ua": "okhttp/3.10.0"
       }
+  },
+  {
+      "key": "猎豹",
+      "name": "🌀猎豹",
+      "type": 3,
+      "jar": "./jar/spiderbh2.jar", //0811XBPQ.jar;YD.jar;spiderbh2.jar
+      "api": "csp_AppGet",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+                "url": "https://444421.xyz",
+                "dataKey": "#getapp@TMD@2025",
+                "dataIv": "#getapp@TMD@2025"
+            }
+    },
+   {
+      "key": "映画",
+      "name": "🌀映画",
+      "type": 3,
+      "jar": "./jar/spiderbh2.jar", //0811XBPQ.jar;YD.jar;spiderbh2.jar
+      "api": "csp_AppGet",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+                "url": "https://cms140.yhg.one/",
+                "dataKey": "bM7iC9eA3oZ1nB7z",
+                "dataIv": "bM7iC9eA3oZ1nB7z"
+            }
+   },
+  {
+      "key": "七味",
+      "name": "🌀七味",
+      "type": 3,
+      "jar": "./jar/spiderbh2.jar", //0811XBPQ.jar;YD.jar;spiderbh2.jar
+      "api": "csp_QnMp4",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+                "url": "https://www.qwnull.com,https://www.qwmkv.com,https://www.qwfilm.com,https://www.qnmp4.com,https://www.qnnull.com,https://www.qnhot.com,https://www.qncool.com"
+            }
+   },
+  {
+      "key": "漫国动漫",
+      "name": "🌀漫国动漫",
+      "type": 3,
+      "searchable": 1,
+      "jar": "./jar/spiderbh2.jar", //0811XBPQ.jar;YD.jar;spiderbh2.jar
+      "api": "csp_AppSy",
+      "ext": {
+                "site": "https://dm-1255775577.cos.ap-guangzhou.myqcloud.com/dmg/api.txt",
+                "siteKey": "rectangleadsadxa",
+                "listKey": "aassddwwxxllsx1x",
+                "parsesKey": "aassddwwxxllsx1x"
+            }
+   },
+   {
+        "key": "丫丫动漫",
+        "name": "🌀丫丫动漫",
+        "type": 3,
+        "jar": "./jar/spiderbh2.jar", //0811XBPQ.jar;YD.jar;spiderbh2.jar    
+        "searchable": 1,
+        "api": "csp_AppGet",
+        "ext": {
+                "url": "http://tv.yy-fun.cc",
+                "dataKey": "qkxnwkfjwpcnwycl",
+                "dataIv": "qkxnwkfjwpcnwycl"
+            }
     },
    {
       "key": "juheduanju",
