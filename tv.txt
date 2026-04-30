@@ -6,7 +6,7 @@
       "name": "TVBS新聞"
     },
     {
-      "url": "https://www.youtube.com/watch?v=xL0ch83RAK8",
+      "url": "https://www.youtube.com/watch?v=sNtCBxP-8LY",
       "name": "台視新聞"
     },
     {
@@ -34,7 +34,7 @@
       "name": "華視新聞"
     },
     {
-      "url": "https://www.youtube.com/watch?v=5SH3FDMyMzg",
+      "url": "https://www.youtube.com/watch?v=LqIMxdJiztU",
       "name": "寰宇新聞"
     },
     {
@@ -104,7 +104,7 @@
       "name": "TVBS亞洲"
     },
     {
-      "url": "https://www.youtube.com/watch?v=-b4UEAGPBBQ",
+      "url": "https://www.youtube.com/watch?v=yi13ULnOmSg",
       "name": "摔角直播"
     },
     {
