@@ -1,0 +1,28 @@
+{
+	"主页url": "https://www.duanju55.com/",
+	"请求头": "手机",
+	"嗅探词":".m3u8#.mp4",
+	"简介": "",
+	"数组": "",
+	"标题": "title=\"&&\"",
+	"副标题": "<div class=\"module-item-text\">&&</div>",
+	"图片": "data-original=\"&&\"",
+	"链接": "href=\"&&\"",
+	//"搜索url": "/vod/search.html?wd={wd}&submit=",
+	//"搜索数组": "myui-vodlist__thumb&&</a>",
+	//"搜索标题": "title=\"&&\"",
+	//"搜索副标题": "pic-tag pic-tag-top\">&&</span>",
+	//"搜索图片": "http://w.g9.pub:66/f/Y1ksA/sorry.ico",
+	//"搜索链接": "href=\"&&\"",
+	//"搜索模式": "1",
+	//"搜索后缀": "/vod/detail/id/",
+	//"线路数组": "<div class=\"play_source\">&&</div></a>",
+	//"线路标题": "alt=\"&&\">",
+	//"播放数组": "<ul class=\"myui-content__list scrollbar&&</ul>",
+	//"播放标题": ">&&<[替换:立即播放>>空]",
+	//"播放列表": "<a&&/a>",
+    //http://www.tvyun07.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html
+	"分类url": "https://www.duanju55.com/index.php/vod/show/class/{cateId}/id/1/page/{catePg}.html;;m",
+	//電影$dianying#電視劇$lianxuju#綜藝$zongyi#動漫$dongman
+	"分类": "都市$都市#赘婿$赘婿#战神$战神#古代$古代#言情$言情#历史$历史#玄幻$玄幻#搞笑$搞笑#喜剧$喜剧#萌宝$萌宝#神豪$神豪#奇幻$奇幻#脑洞$脑洞#强者$强者#回归$回归#甜宠$甜宠#豪门$豪门#恩怨$恩怨#复仇$复仇#神医$神医#马甲$马甲#亲情$亲情#人物$人物#无敌$无敌#重生$重生#闪婚$闪婚#职场$职场#商战$商战#穿越$穿越#年代$年代#权谋$权谋#高手$高手#下山$下山#悬疑$悬疑#家国$家国#虐恋$虐恋#古装$古装#时空$时空#之旅$之旅#仙侠$仙侠#欢喜$欢喜#冤家$冤家#传承$传承#觉醒$觉醒#情感$情感#逆袭$逆袭#家庭$家庭"
+}

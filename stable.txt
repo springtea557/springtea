@@ -121,6 +121,13 @@
       ]
   },
   {
+      "key": "🌀独播",
+      "name": "🌀独播",
+      "type": 3,
+      "jar": "./jar/spiderbh2.jar", //0811XBPQ.jar;YD.jar;spiderbh2.jar
+      "api": "csp_Duboku"
+  },
+  {
       "key": "荐片",
       "name": "🌀荐片",
       "jar": "./jar/spiderbh2.jar", //0811XBPQ.jar;YD.jar;spiderbh2.jar
@@ -139,8 +146,8 @@
       "filterable": 1
   },
   {
-      "key": "韩剧",
-      "name": "🌀韩剧",
+      "key": "韩剧+",
+      "name": "🌀韩剧+",
       "type": 3,
       "jar": "./jar/spiderbh2.jar", //0811XBPQ.jar;YD.jar;spiderbh2.jar
       "api": "https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/tvbox/py/%E9%9F%A9%E5%89%A7.py",
@@ -148,6 +155,14 @@
       "quickSearch": 0,
       "filterable": 0,
       "changeable": 0
+  },
+  {
+      "key": "韩圈+",
+      "name": "🌀韩圈+",
+      "type": 3,
+      "jar": "./jar/spiderbh2.jar", //0811XBPQ.jar;YD.jar;spiderbh2.jar
+      "api": "csp_Hxq",
+      "ext": "http://www.小不点.com/api/2026/fishhxq.php"
   },
   {
       "key": "三秋",
@@ -179,29 +194,6 @@
       "ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod"
   }, 
   {
-      "key": "晓米",
-      "name": "🌀晓米",
-      "type": 3,
-      "jar": "./jar/spiderbh2.jar", //0811XBPQ.jar;YD.jar;spiderbh2.jar
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://111.170.58.23:802/api.php/app/"
-  },
- {
-      "key": "云播",
-      "name": "🌀云播",
-      "type": 3,
-      "jar": "./jar/spiderbh2.jar", //0811XBPQ.jar;YD.jar;spiderbh2.jar
-      "searchable": 1,
-      "changeable": 1,
-      "api": "csp_AppFox",
-      "ext": {
-        "host": "http://app.hktvyb.cc"
-      }
-  },
-  {
       "key": "火锅",
       "name": "🌀火锅",
       "type": 3,
@@ -213,23 +205,6 @@
         "url": "https://ios.hgyx.vip",
         "dataKey": "062dec75d039980e",
         "dataIv": "062dec75d039980e"
-      }
-  },
-  {
-      "key": "金牌",
-      "name": "🌀金牌",
-      "type": 3,
-      "jar": "./jar/spiderbh2.jar", //0811XBPQ.jar;YD.jar;spiderbh2.jar
-      "api": "csp_AppQi",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "url": "https://qj3.ggtvb.cc",
-        "dataKey": "eecbio48dsq13kkk",
-        "dataIv": "eecbio48dsq13kkk",
-        "search": "searchList4",
-        "init": "initV122",
-        "ua": "okhttp/3.10.0"
       }
   },
   {
@@ -289,6 +264,62 @@
             }
    },
   {
+        "key": "王子",
+        "name": "🌀王子",
+        "type": 3,
+        "jar": "./jar/spiderbh2.jar", //0811XBPQ.jar;YD.jar;spiderbh2.jar
+        "api": "csp_AppGet",
+        "searchable": 1,
+        "changeable": 1,
+        "ext": {
+                "url": "https://app.95112475.xyz",
+                "dataKey": "5a9w6x58dsq6z3a6",
+                "dataIv": "5a9w6x58dsq6z3a6"
+            }
+  },
+  {
+        "key": "橘汁",
+        "name": "🌀橘汁",
+        "type": 3,
+        "jar": "./jar/spiderbh2.jar", //0811XBPQ.jar;YD.jar;spiderbh2.jar
+        "api": "csp_AppDrama",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": {
+                "appName": "橘汁",
+                "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
+                "dataKey": "DGVQRUX5R1LWWDLHTGJSUKG1DJRVPQ==",
+                "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+                "pkg": "com.lxf.snzlcgtzxyx",
+                "host": "",
+                "site": "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt",
+                "version": "3.0.2.1",
+                "decrypt": "1"
+            }
+  },
+  {
+        "key": "薯条",
+        "name": "🌀薯条",
+        "type": 3,
+        "jar": "./jar/spiderbh2.jar", //0811XBPQ.jar;YD.jar;spiderbh2.jar
+        "api": "csp_AppDrama",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": {
+                "appName": "薯条影视",
+                "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
+                "dataKey": "A1VACZJWDKRZY1P3MFV0DDRAZ3F3PT0=",
+                "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+                "pkg": "com.st.standroid",
+                "host": "",
+                "site": "https://dyttandroid-1372779881.cos.ap-guangzhou.myqcloud.com/app_dyttandroid.txt",
+                "version": "5.0.0.1",
+                "decrypt": "0"
+            }
+  },
+  {
       "key": "漫国动漫",
       "name": "🌀漫国动漫",
       "type": 3,
@@ -303,18 +334,54 @@
             }
    },
    {
-        "key": "丫丫动漫",
-        "name": "🌀丫丫动漫",
+       "key": "方舟动漫",
+       "name": "🌀方舟动漫",
+       "type": 3,
+       "searchable": 1,
+       "jar": "./jar/spiderbh2.jar", //0811XBPQ.jar;YD.jar;spiderbh2.jar
+       "api": "csp_AppGet",
+       "ext": {
+                "url": "https://www.cyfz.top",
+                "dataKey": "e72cdfd629e8895d",
+                "dataIv": "e72cdfd629e8895d"
+            }
+   },
+   {
+        "key": "番薯动漫",
+        "name": "🌀番薯动漫",
         "type": 3,
-        "jar": "./jar/spiderbh2.jar", //0811XBPQ.jar;YD.jar;spiderbh2.jar    
         "searchable": 1,
+        "jar": "./jar/spiderbh2.jar", //0811XBPQ.jar;YD.jar;spiderbh2.jar
         "api": "csp_AppGet",
         "ext": {
-                "url": "http://tv.yy-fun.cc",
-                "dataKey": "qkxnwkfjwpcnwycl",
-                "dataIv": "qkxnwkfjwpcnwycl"
+                "url": "https://new.app.bytegooty.com",
+                "dataKey": "N4yj7l7xKxHF4*gz",
+                "dataIv": "N4yj7l7xKxHF4*gz"
             }
-    },
+   },
+  {
+     "key": "围观短剧",
+     "name": "🌀围观短剧",
+     "type": 3,
+     "jar": "./jar/spiderbh2.jar", //0811XBPQ.jar;YD.jar;spiderbh2.jar
+     "api": "csp_WeiguanDJ",
+     "searchable": 1,
+     "changeable": 1,
+     "quickSearch": 1,
+     "filterable": 1,
+     "genre": "shortdrama"
+   },
+   {
+      "key": "星芽短剧",
+      "name": "🌀星芽短剧",
+      "type": 3,
+      "api": "./lib/星芽短剧.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "genre": "shortdrama"
+   },
    {
       "key": "juheduanju",
       "name": "🌟聚合(短剧)",
@@ -335,16 +402,6 @@
       "filterable": 1
     },
     {
-      "key": "JuWang",
-      "name": "🌟剧王(短剧)",
-      "type": 3,
-      "jar": "./jar/dongli-spider.jar",
-      "api": "csp_JuWang",
-      "searchable": 0,
-      "changeable": 0,
-      "filterable": 1
-    },
-    {
       "key": "七星短剧",
       "name": "🌟七星(短剧)",
       "type": 3,
@@ -356,30 +413,6 @@
       "filterable": 1
     },
     {
-      "key": "csp_Bdys",
-      "name": "🍮修罗",
-      "type": 3,
-      "api": "csp_Bdys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://v.xlys.ltd.ua/"
-    },
-    {
-      "key": "Lib",
-      "name": "☁立播",
-      "type": 3,
-      "api": "csp_Libvio",
-      "searchable": 1,
-      "changeable": 1,
-      "jar": "./jar/fty0108.jar;md5;199d292d646c6d3b0d6a2b37eb30f05b;",
-      "ext": 
-      {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
-    },
-    {
       "key": "csp_Ikanbot",
       "name": "👾Ikanbot",
       "type": 3,
@@ -388,18 +421,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://v.aikanbot.com"
-    },
-   {
-      "key": "飞快",
-      "name": "🍃飞快",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://ncstatic-file.clewm.net/rsrc/2025/0916/11/1275b576ff8340d0f20930745d5ac59c.jpg;md5;b8ccf68972d12e3983a93b35b4024345",
-      "ext": {
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "分类url": "https://feikuai.tv/;;!"
-      }
     },
     {
       "key": "宝盒",
@@ -424,34 +445,6 @@
         "url": "http://v.rbotv.cn"
       }
     },
-     {
-      "key": "缘梦",
-      "name": "🔗缘梦(APP)",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "jar": "./jar/spider.jar",
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://165.99.42.137:5432",
-        "dataKey": "1234567890987654",
-        "dataIv": "1234567890987654"
-      }
-    },
-    {
-      "key": "王子",
-      "name": "🔗王子(APP)",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "jar": "./jar/spider.jar",
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://app.95112475.xyz",
-        "dataKey": "5a9w6x58dsq6z3a6",
-        "dataIv": "5a9w6x58dsq6z3a6"
-      }
-    },
     {
       "key": "茉莉",
       "name": "🔗茉莉(APP)",
@@ -474,28 +467,20 @@
       "ext":  "./lib/厂长资源.json",
       "jar":  "./jar/HCCX.jar"
     },
-    {
-      "key": "XBPQ_紫金",
-      "name": "⛩紫金(XBPQ)",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext":  "./lib/紫金.json",
-      "jar":  "./jar/HCCX.jar"
-    },
-    {
-      "key": "XBPQ_櫻花",
-      "name": "🌸櫻花(XBPQ)",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext":  "./lib/櫻花.json",
-      "jar":  "./jar/HCCX.jar"
-    },
      {
       "key": "XBPQ_茉小影",
       "name": "🏵茉小影(XBPQ)",
       "type": 3,
       "api": "csp_XBPQ",
       "ext":  "./lib/茉小影.json",
+      "jar":  "./jar/HCCX.jar"
+    },
+    {
+      "key": "XBPQ_66",
+      "name": "🎼66(XBPQ)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext":  "./lib/66影视.json",
       "jar":  "./jar/HCCX.jar"
     },
      {
@@ -603,11 +588,19 @@
       "jar":  "./jar/HCCX.jar"
     },
     {
-      "key": "XBPQ_短剧网",
-      "name": "📌短剧网(XBPQ)",
+      "key": "XBPQ_乐兔",
+      "name": "🐰乐兔(XBPQ)",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext":  "./lib/短剧网.json",
+      "ext":  "./lib/乐兔.json",
+      "jar":  "./jar/HCCX.jar"
+    },
+    {
+      "key": "XBPQ_五五短剧",
+      "name": "🍒五五短剧(XBPQ)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext":  "./lib/五五短剧.json",
       "jar":  "./jar/HCCX.jar"
     },
     {
